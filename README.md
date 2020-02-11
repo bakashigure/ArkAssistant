@@ -1,10 +1,9 @@
 # 欢迎使用 明日方舟公招助手 ArkAssistant
 
 
-### 程序:[bakashigure](https://github.com/pandao/editor.md)
-
-### 协力:[DYProMike](https://twitter.com/DYProMIKE)
-
+* [欢迎使用 明日方舟公招助手 ArkAssistant](#%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8-%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%85%AC%E6%8B%9B%E5%8A%A9%E6%89%8B-arkassistant)
+    * [程序:<a href="https://github\.com/pandao/editor\.md">bakashigure</a>](#%E7%A8%8B%E5%BA%8Fbakashigure)
+    * [协力:<a href="https://twitter\.com/DYProMIKE" rel="nofollow">DYProMike</a>](#%E5%8D%8F%E5%8A%9Bdypromike)
 <br>
 
 ##使用
