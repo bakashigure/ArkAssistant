@@ -7,9 +7,10 @@
 
 
 ## 使用
-自行编译：已创建CMakeLists.txt,本地编译需要QT5环境
+自行编译：已创建CMakeLists.txt,本地编译需要QT5环境  
+
 下载版本：[GITHUB](https://twitter.com/DYProMIKE)
-<br>
+
 
 
 
