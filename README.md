@@ -20,15 +20,16 @@
 
 
 ## 关于
-界面布局来自[一只灰猫的工具箱](https://github.com/graueneko/aktools)
+界面布局来自[一只灰猫的工具箱](https://github.com/graueneko/aktools)  
+
 背景我老婆来自[av64745013](https://www.bilibili.com/video/av64745013)
 
 
 
-上面俩都和作者沟通过啦（逃
-<br>
+上面俩都和作者沟通过啦（逃  
+
 这玩意没啥实用价值，算是我练习c++和qt还有cmake使用的练习作品吧<s>(再逃</s>
-<s> test</s>
+
 
 
 
