@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AboutWindow</class>
+ <widget class="QMainWindow" name="AboutWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>746</width>
+    <height>394</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>577</width>
+    <height>394</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>10004</width>
+    <height>100000</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>0</y>
+      <width>221</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 14pt &quot;黑体&quot;;</string>
+    </property>
+    <property name="text">
+     <string>明日方舟公招助手 v1.0</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="backgroundifrit2" native="true">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>-80</y>
+      <width>911</width>
+      <height>551</height>
+     </rect>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>911</width>
+      <height>551</height>
+     </size>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">image:url(:/akahelper/10.png)</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="widget" native="true">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>50</y>
+      <width>311</width>
+      <height>321</height>
+     </rect>
+    </property>
+    <widget class="QWidget" name="layoutWidget">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>10</y>
+       <width>138</width>
+       <height>44</height>
+      </rect>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QLabel" name="label_2">
+        <property name="styleSheet">
+         <string notr="true">font: 12pt &quot;黑体&quot;;</string>
+        </property>
+        <property name="text">
+         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;程序:&lt;style&gt; a {text-decoration: none} &lt;/style&gt; &lt;a href=&quot;https://twitter.com/bakashigure&quot;&gt;&lt;span style=&quot; color:#ff5500;&quot;&gt;@bakashigure&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_5">
+        <property name="styleSheet">
+         <string notr="true">
+font: 12pt &quot;黑体&quot;;</string>
+        </property>
+        <property name="text">
+         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;协力:&lt;style&gt; a {text-decoration: none} &lt;/style&gt; &lt;a href=&quot;https://twitter.com/DYProMIKE&quot;&gt;&lt;span style=&quot; color:#ff5500;&quot;&gt;@DYProMIKE&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+    <widget class="QWidget" name="layoutWidget">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>70</y>
+       <width>138</width>
+       <height>44</height>
+      </rect>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout_2">
+      <item>
+       <widget class="QLabel" name="label_3">
+        <property name="styleSheet">
+         <string notr="true">font: 12pt &quot;黑体&quot;;</string>
+        </property>
+        <property name="text">
+         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;国服:  孭织#416&lt;style&gt; a {text-decoration: none} &lt;/style&gt; &lt;span style=&quot; color:#ff5500;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_4">
+        <property name="styleSheet">
+         <string notr="true">font: 12pt &quot;黑体&quot;;</string>
+        </property>
+        <property name="text">
+         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;日服:  しぐれ#9916&lt;style&gt; a {text-decoration: none} &lt;/style&gt; &lt;span style=&quot; color:#ff5500;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+    <widget class="QWidget" name="layoutWidget">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>130</y>
+       <width>202</width>
+       <height>44</height>
+      </rect>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout_3">
+      <item>
+       <widget class="QLabel" name="label_6">
+        <property name="styleSheet">
+         <string notr="true">
+font: 12pt &quot;黑体&quot;;</string>
+        </property>
+        <property name="text">
+         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;布局来自:&lt;style&gt; a {text-decoration: none} &lt;/style&gt; &lt;a href=&quot;https://aktools.graueneko.xyz/&quot;&gt;&lt;span style=&quot; color:#ff5500;&quot;&gt;一只灰猫的工具箱&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_7">
+        <property name="styleSheet">
+         <string notr="true">
+font: 12pt &quot;黑体&quot;;</string>
+        </property>
+        <property name="text">
+         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;背景我老婆来自:&lt;style&gt; a {text-decoration: none} &lt;/style&gt; &lt;a href=&quot;https://www.bilibili.com/video/av64745013&quot;&gt;&lt;span style=&quot; color:#ff5500;&quot;&gt;av64745013&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+    <widget class="QLabel" name="label_8">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>210</y>
+       <width>461</width>
+       <height>51</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">
+font: 12pt &quot;黑体&quot;;</string>
+     </property>
+     <property name="text">
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;c++和qt的学习之作，&lt;br&gt;没什么实用价值，&lt;br&gt;建议用灰猫的在线工具(逃
+&lt;style&gt; a {text-decoration: none} &lt;/style&gt; &lt;span style=&quot; color:#ff5500;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_9">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>270</y>
+       <width>461</width>
+       <height>51</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">
+font: 12pt &quot;黑体&quot;;</string>
+     </property>
+     <property name="text">
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;项目地址:&lt;style&gt; a {text-decoration: none} &lt;/style&gt; &lt;a href=&quot;https://github.com/bakashigure/ArkAssistant&quot;&gt;&lt;span style=&quot; color:#ff5500;&quot;&gt;github&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
+    </widget>
+   </widget>
+   <zorder>backgroundifrit2</zorder>
+   <zorder>label</zorder>
+   <zorder>widget</zorder>
+  </widget>
+ </widget>
+ <resources>
+  <include location="akahelper.qrc"/>
+ </resources>
+ <connections/>
+</ui>
