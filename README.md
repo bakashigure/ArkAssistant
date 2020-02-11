@@ -6,19 +6,19 @@
 
 
 
-##使用
+## 使用
 自行编译：已创建CMakeLists.txt,本地编译需要QT5环境
 下载版本：[GITHUB](https://twitter.com/DYProMIKE)
 <br>
 
 
 
-##功能
+## 功能
 根据明日方舟公开招募所选择的词缀，展示可能的合成结果。
 
 
 
-##关于
+## 关于
 界面布局来自[一只灰猫的工具箱](https://github.com/graueneko/aktools)
 背景我老婆来自[av64745013](https://www.bilibili.com/video/av64745013)
 
