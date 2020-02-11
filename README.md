@@ -1,7 +1,7 @@
 # 欢迎使用 明日方舟公招助手 ArkAssistant
 
 
-### 程序: [bakashigure](https://github.com/graueneko)
+### 程序: [bakashigure](https://twitter.com/bakashigure)
 ### 协力: [DYProMike](https://twitter.com/DYProMIKE)
 
 
@@ -9,7 +9,7 @@
 ## 使用
 自行编译：已创建CMakeLists.txt,本地编译需要QT5环境  
 
-下载版本：[GITHUB](https://twitter.com/DYProMIKE)
+下载版本：[GITHUB](https://github.com/bakashigure/ArkAssistant/releases/download/1.0/ArkAssistant1.0.zip)
 
 
 
