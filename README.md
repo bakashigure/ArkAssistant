@@ -1,8 +1,7 @@
 # 欢迎使用 明日方舟公招助手 ArkAssistant
 
 
-### 程序:[bakashigure](https://github.com/pandao/editor.md)
-
+### 程序: [bakashigure](https://github.com/graueneko)
 ### 协力:[DYProMike](https://twitter.com/DYProMIKE)
 
 
